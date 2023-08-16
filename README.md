@@ -1,4 +1,4 @@
-# 3500_Game_Project
+# Game_Project
 
 game-los_coders_game
 game-los_coders_game
