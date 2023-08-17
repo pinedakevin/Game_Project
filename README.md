@@ -7,6 +7,10 @@
 > This project made me into a great programmer. Do the same for yourself.
 >
 > The project is only to showcase my past work and show competency in this subject
+>
+> Again, you will get caught as Gradescope will pick this up.
+>
+> Will only be up during times I want to showcase my work. 
 
 
 
