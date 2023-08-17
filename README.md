@@ -1,5 +1,11 @@
-> :warning: **If you are using mobile browser**: Be very careful here!
-
+> :warning: **If you are current student at the University of Utah**:
+> Plagirisim is against the School of Computings code of conduct.
+> All work done here was from scract and/or skeleton code provided by the class.
+>
+> You will learn nothing if you cheat. You are cheating on yourself.
+> This project made me into a great programmer. Do the same for yourself.
+>
+> The project is only to showcase my past work and show compentency in this subject
 
 
 
